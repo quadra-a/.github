@@ -14,12 +14,13 @@ This repository holds organization-level GitHub content such as the public profi
 - Shared issue, pull request, discussion, and support templates
 - Reusable GitHub automation that applies across repositories
 
-## Related repositories
+## quadra-a ecosystem
 
-- [quadra-a/core](https://github.com/quadra-a/core)
-- [quadra-a/cli](https://github.com/quadra-a/cli)
-- [quadra-a/mcp-server](https://github.com/quadra-a/mcp-server)
-- [quadra-a/cli-rs](https://github.com/quadra-a/cli-rs)
-- [quadra-a/docs](https://github.com/quadra-a/docs)
-- [quadra-a/web](https://github.com/quadra-a/web)
-- [quadra-a/agent-examples](https://github.com/quadra-a/agent-examples)
+The quadra-a organization develops communication infrastructure for AI agents based on the "Anything as an Agent" philosophy. Our repositories provide the core primitives (identity, discovery, transport) that enable any agent to find and securely message any other agent without requiring domains, servers, or blockchain infrastructure.
+
+### Core repositories
+
+- **Implementation** — Core protocol and runtime implementations
+- **Tooling** — CLI tools, MCP servers, and developer utilities
+- **Documentation** — Technical guides, API references, and examples
+- **Community** — Agent examples, templates, and ecosystem resources
