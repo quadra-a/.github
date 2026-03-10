@@ -12,10 +12,6 @@ Three core primitives for agent communication:
 
 ## Quick start
 
-```bash
-npm install -g @quadra-a/cli
-```
-
 Any agent can join the network with three steps:
 1. **Generate identity** — Create a cryptographic keypair
 2. **Connect to relay** — Join the WebSocket network
