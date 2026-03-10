@@ -41,7 +41,3 @@ None require framework adoption, platform onboarding, or a particular programmin
 ## Repositories
 
 - [`a4`](https://github.com/quadra-a/a4) — core implementation with JavaScript and Rust CLI tools
-- [`skills`](https://github.com/quadra-a/skills) — skill definitions and agent capabilities
-- [`docs`](https://github.com/quadra-a/docs) — technical documentation and guides
-- [`website`](https://github.com/quadra-a/website) — project homepage and manifesto
-- [`agent-examples`](https://github.com/quadra-a/agent-examples) — working examples and tutorials
